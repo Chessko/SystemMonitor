@@ -4,7 +4,6 @@
 This project had been part of the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). I had been developing a htop like system monitor under expert guidance which got me to learn about and gain practical experience in:
 * Object orientated programming (Classes, Inheritance, Composition, Overloading, Templates, ...) 
 * Reading and parsing .txt files
-* Make & CMake
 
 ## Description
 
